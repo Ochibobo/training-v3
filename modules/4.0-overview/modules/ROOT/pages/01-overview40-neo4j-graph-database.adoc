@@ -304,6 +304,7 @@ image::PropertyGraphNodes.png[PropertyGraphNodes,width=300,align=center]
 [square]
 * Represent objects or entities.
 * Can be labeled.
+* May have properties.
 
 ifndef::env-slides[]
 There are two kinds of data that can be associated with a node - labels and properties.
@@ -342,11 +343,6 @@ endif::[]
 === Node properties
 
 image::PropertyGraphNodesWithProperties.png[PropertyGraphNodesWithProperties,width=400,align=center]
-
-[square]
-* Represent objects or entities.
-* Can be labeled.
-* May have properties.
 
 ifndef::env-slides[]
 Properties are used to associate specific information with individual nodes.
